@@ -1,4 +1,5 @@
- #Electric Vehicle (EV) Adoption – Key Insights from Data Analysis
+ # Electric Vehicle (EV) Adoption – Key Insights from Data Analysis
+
 📌 1. EV Adoption by City (Total Electric Range):
 
 Seattle leads with the highest electric range total (1.82 million), followed by Bellevue, Vancouver, and Redmond, indicating strong EV penetration in urban hubs.
